@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The legend of Riner", "Assembly-CSharp.csproj", "{534AB919-66F8-CBA2-F630-1E3804DD1439}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{534AB919-66F8-CBA2-F630-1E3804DD1439}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{534AB919-66F8-CBA2-F630-1E3804DD1439}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{534AB919-66F8-CBA2-F630-1E3804DD1439}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{534AB919-66F8-CBA2-F630-1E3804DD1439}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
